@@ -1,0 +1,8 @@
+1 - VCS -> share on git
+2 - int rep
+3 - Start feature
+4 - commit
+5 - push
+6 - pull
+7 - merge
+
